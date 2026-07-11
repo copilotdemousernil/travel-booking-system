@@ -1,0 +1,9 @@
+APP_NAME = "SkyBound Travels"
+
+APP_VERSION = "1.0.0"
+
+API_PREFIX = "/api/v1"
+
+DEFAULT_PAGE_SIZE = 20
+
+MAX_PAGE_SIZE = 100
