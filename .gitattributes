@@ -1,0 +1,21 @@
+* text=auto
+
+*.py text
+
+*.ts text
+
+*.html text
+
+*.scss text
+
+*.json text
+
+*.yml text
+
+*.yaml text
+
+*.md text
+
+*.sh text eol=lf
+
+*.ps1 text eol=crlf
